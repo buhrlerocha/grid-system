@@ -1,0 +1,85 @@
+/* Inserta tu código aqui */
+header {
+	background-color: black;
+}
+.menu {
+	margin: 8px;
+	color: white;
+	float: right;
+	text-decoration: none;
+	margin-top: 80px;
+}
+img {
+	margin: 15px;
+}
+.paulina{
+	display: inline-block;
+}
+.minuscula{
+	color:blue;
+}
+.section1 {
+	width: 80%;
+	height: 80%;
+}
+.portada {
+	text-align: center;
+	color:blue;
+}
+section{
+	background-color:#E0ECF8;
+}
+.section2 {
+	width: 80%;
+	height:80%;
+}
+p {
+	text-align: center;
+	color: blue;
+	height: 30px;
+}
+.col-2 {
+	width: 14%;
+}
+li {
+    list-style: none;
+}
+
+.box{
+	width: 30%;
+	padding-left: 80px;
+}
+.iconos {
+	width: 9%;
+}
+.iconosp {
+	font-size: 14px;
+	text-decoration: none;
+}
+.bordes {
+	border: 1px solid #E0ECF8;
+}
+.primero {
+	color:black;
+	text-align: left;
+}
+span {
+	color:blue;
+}
+footer {
+	background-color: #6E6E6E;
+}
+.uno {
+	color: white;
+	text-align: left;
+	margin: 10px;
+	padding: 10px;
+}
+.dos{
+	color: white;
+	font-size: 15px;
+}
+.tres{
+	color: #D8D8D8;
+	font-size: 12px;
+}
